@@ -10,7 +10,7 @@ ms.author: owinfrey
 ---
 
 # Microsoft Entra ID Governance licensing fundamentals
-This following document discusses Microsoft Entra ID Governance licensing for employees. It's intended for IT decision makers, IT administrators, and IT professionals who are considering Microsoft Entra ID Governance services for their organizations.
+The following document discusses Microsoft Entra ID Governance licensing for employees. It's intended for IT decision makers, IT administrators, and IT professionals who are considering Microsoft Entra ID Governance services for their organizations.
 
 For licensing governance for guest users, see [Microsoft Entra ID Governance licensing for guest users](microsoft-entra-id-governance-licensing-for-guest-users.md). For the preview for agents, see [governing agent identities (preview)](agent-id-governance-overview.md#license-requirements).
 
